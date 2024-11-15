@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "My current interests include:\n\nScaling analysis workflows for high-dimensional biological (omics) data\nScientific package development (R, Python)\nLow/no-code applications for data analysis, visualization, and interpretation\nReproducibility in scientific code\nData harmonization, integration, and interoperability\nCollaborating and learning from colleagues with diverse backgrounds across biology, medicine, data science, software engineering, product development, and more!\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Selected publications are referenced alongside relevant experiences.\nA complete list of my publications can be seen on my ORCID  or Google Scholar  profile.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "PDF coming soon!\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Enable Medicine is a startup company delivering end-to-end spatial biology solutions, and building a cloud-based platform to index, annotate, and search multi-modal biological data.\nScaling and supporting internal data science flows\n\nAuthored and maintained internal and external-facing scientific packages for access and analysis of spatial omics data, including:\n\nSpatialMap (R, closed source) [docs]\nemobject (Python, open source) [docs, repo, my MRs]\n\nDeveloped notebook templates to streamline analysis and reporting workflows for single-cell spatial proteomics\nTranslated one-off scripts and machine/deep learning frameworks into no-code user interfaces to reduce time to insight\nLed workshop on git/GitLab, code review, and CI/CD practices for fellow scientists\n\nProduct development\n\nLed technical design and execution of proof-of-concept pipeline to support new biological insights product\nCollaborated with software engineering, product, and commercial teams to improve cloud platform usability and scope new features, including:\n\nMore intuitive data ingestion flows\nExpanding data ingestion to new modalities\nImproved workflows for annotation and visualization\n\n\nR&D and solutions\n\nReviewed design docs and provided feedback on AI/ML research projects (Wu et al. 2023)\nExecuted and delivered custom single-cell spatial proteomics analysis for biopharma and academic clients, including QC, cell type classification/annotation, cell-cell interactions, and spatial analysis"
+  },
+  {
+    "objectID": "experience.html#scientist-at-enable-medicine",
+    "href": "experience.html#scientist-at-enable-medicine",
+    "title": "Experience",
+    "section": "",
+    "text": "Enable Medicine is a startup company delivering end-to-end spatial biology solutions, and building a cloud-based platform to index, annotate, and search multi-modal biological data.\nScaling and supporting internal data science flows\n\nAuthored and maintained internal and external-facing scientific packages for access and analysis of spatial omics data, including:\n\nSpatialMap (R, closed source) [docs]\nemobject (Python, open source) [docs, repo, my MRs]\n\nDeveloped notebook templates to streamline analysis and reporting workflows for single-cell spatial proteomics\nTranslated one-off scripts and machine/deep learning frameworks into no-code user interfaces to reduce time to insight\nLed workshop on git/GitLab, code review, and CI/CD practices for fellow scientists\n\nProduct development\n\nLed technical design and execution of proof-of-concept pipeline to support new biological insights product\nCollaborated with software engineering, product, and commercial teams to improve cloud platform usability and scope new features, including:\n\nMore intuitive data ingestion flows\nExpanding data ingestion to new modalities\nImproved workflows for annotation and visualization\n\n\nR&D and solutions\n\nReviewed design docs and provided feedback on AI/ML research projects (Wu et al. 2023)\nExecuted and delivered custom single-cell spatial proteomics analysis for biopharma and academic clients, including QC, cell type classification/annotation, cell-cell interactions, and spatial analysis"
+  },
+  {
+    "objectID": "experience.html#postdoctoral-research-scholar-at-stanford-university",
+    "href": "experience.html#postdoctoral-research-scholar-at-stanford-university",
+    "title": "Experience",
+    "section": "2020 - 2022 | Postdoctoral Research Scholar at Stanford University",
+    "text": "2020 - 2022 | Postdoctoral Research Scholar at Stanford University\nI conducted postdoctoral research in the lab of Sylvia Plevritis. I was awarded a Stanford Cancer Imaging Training (SCIT) fellowship to pursue hybrid wet/dry lab research characterizing how spatial patterns of cells and extracellular matrix change as a function of lung cancer progression.\n\nIntegrated multi-modal imaging data (multiplexed immunofluorescence, histology) to analyze lung cancer tissue\nEstablished image analysis pipeline to align, process, and extract features describing tissue architecture\nApplied machine learning techniques to identify tissue-based features associated with lung cancer progression and survival (manuscript in preparation)\nContributed to benchmarking methods for inferring cell-cell interaction from transcriptomics data (Yu et al. 2022)\nAudited coursework in computational image analysis, statistical learning, AI in healthcare"
+  },
+  {
+    "objectID": "experience.html#graduate-research-assistant-at-cornell-university",
+    "href": "experience.html#graduate-research-assistant-at-cornell-university",
+    "title": "Experience",
+    "section": "2014 - 2020 | Graduate Research Assistant at Cornell University",
+    "text": "2014 - 2020 | Graduate Research Assistant at Cornell University\nI earned my Ph.D. in Biomedical Engineering in the lab of in the lab of Claudia Fischbach. I was awarded the Ruth L. Kirschstein Predoctoral Individual National Research Service Award (NIH F31) for my dissertation research, which focused on studying biological mechanisms of breast cancer metastasis to bone using spatially resolved approaches.\n\nLed international collaboration to characterize cancer-associated changes in bone tissue using transcriptomics (bulk RNAseq) and multi-scale, correlative imaging (Chiou, Liu, et al. 2021)\nDeveloped experimental imaging approach to visualize early metastatic cancer cells in bone tissue (Chiou, Hinckley, et al. 2021)\nContributed to 7 additional original research publications as a co-author\nMentored 4 undergraduate researchers\nCompleted coursework in cancer biology, tissue engineering, biomechanics, statistics, and science communication"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "I am a…\n\nData scientist\nBiomedical engineer\nCancer researcher\nTool builder\nLifelong learner\nCrocheter\n\nI love to build things that make life easier for scientists. Based on my prior experience as a bench researcher, I know what it’s like to lack the computational support to achieve one’s analysis goals.\nNow I specialize in building tools for computational image and -omics analysis, with motivation to make such tools accessible to scientists regardless of their coding expertise.\nYou can read more about the many interests I’ve developed in over a decade of combined experience in academia and industry.\n\n\n\n Back to top"
+  }
+]
